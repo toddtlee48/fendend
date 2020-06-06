@@ -2,10 +2,10 @@
 
 # Project Instructions
 
-##Overview
+## Overview
 This is a project that incorporates webpack. It also entails using a different API and a SDK to make API calls. 
 
-##Step 1
+## Step 1
 My suggestion is to have three terminal windows open. One for the development environment, one for the production environment and one for the server. 
 
 ## Step 2
